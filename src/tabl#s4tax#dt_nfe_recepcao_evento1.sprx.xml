@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SPRX" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PROXY_HEADER>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>/S4TAX/DT_NFE_RECEPCAO_EVENTO1</OBJ_NAME>
+     <OBJECT_M>TABL</OBJECT_M>
+     <OBJ_NAME_M>/S4TAX/DT_NFE_RECEPCAO_EVENTO1</OBJ_NAME_M>
+     <HASH_ID>6538F8A8245E4C520B2C03FFA01948BFA67B237E</HASH_ID>
+     <ID>&lt;type&gt; DT_NFeRecepcaoEvento_Response https://4tax.seidorbrasil.com.br/NFeRecepcaoEvento https://4tax.seidorbrasil.com.br/NFeRecepcaoEvento</ID>
+     <IFR_GLOBAL>X</IFR_GLOBAL>
+     <IFR_TYPE>type</IFR_TYPE>
+     <IFR_NAME>DT_NFeRecepcaoEvento_Response</IFR_NAME>
+     <IFR_NSPCE>https://4tax.seidorbrasil.com.br/NFeRecepcaoEvento</IFR_NSPCE>
+     <IFR_GNSPCE>https://4tax.seidorbrasil.com.br/NFeRecepcaoEvento</IFR_GNSPCE>
+     <GEN_VERS>0005</GEN_VERS>
+     <PREFIX>/S4TAX/</PREFIX>
+     <CATEGORY>ifmtypedef</CATEGORY>
+     <X-ML_NSPCE>https://4tax.seidorbrasil.com.br/NFeRecepcaoEvento</X-ML_NSPCE>
+     <X-ML_NAME>DT_NFeRecepcaoEvento_Response</X-ML_NAME>
+     <VERSION_ID>8b9141270b0b11eb99890000003a94ae</VERSION_ID>
+    </item>
+   </PROXY_HEADER>
+   <PROXY_DATA>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>/S4TAX/DT_NFE_RECEPCAO_EVENTO1</OBJ_NAME>
+     <OBJECT1>FIEL</OBJECT1>
+     <OBJ_NAME1>COMMUNICATION_IDS</OBJ_NAME1>
+     <OBJECT2>FIEL</OBJECT2>
+     <OBJ_NAME2>COMMUNICATION_IDS</OBJ_NAME2>
+     <OBJECT_R>TTYP</OBJECT_R>
+     <OBJ_NAME_R>/S4TAX/STRING_TAB1</OBJ_NAME_R>
+     <ID>&lt;element&gt; communicationIds &lt;type&gt; DT_NFeRecepcaoEvento_Response https://4tax.seidorbrasil.com.br/NFeRecepcaoEvento https://4tax.seidorbrasil.com.br/NFeRecepcaoEvento</ID>
+     <IFR_TYPE>element</IFR_TYPE>
+     <IFR_NAME>communicationIds</IFR_NAME>
+     <IFR_LANGU>EN</IFR_LANGU>
+     <IFR_TAGTYP>L</IFR_TAGTYP>
+     <IFR_MAXOCC>65535</IFR_MAXOCC>
+     <IFR_OPTNL>X</IFR_OPTNL>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>FIEL</R3_TYPE>
+     <R3_NAME>COMMUNICATION_IDS</R3_NAME>
+     <R3_SEQNUM>000002</R3_SEQNUM>
+    </item>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>/S4TAX/DT_NFE_RECEPCAO_EVENTO1</OBJ_NAME>
+     <OBJECT1>FIEL</OBJECT1>
+     <OBJ_NAME1>RET_ENV_EVENTO</OBJ_NAME1>
+     <OBJECT2>FIEL</OBJECT2>
+     <OBJ_NAME2>RET_ENV_EVENTO</OBJ_NAME2>
+     <OBJECT_R>TABL</OBJECT_R>
+     <OBJ_NAME_R>/S4TAX/DT_NFE_RECEPCAO_EVENTO</OBJ_NAME_R>
+     <ID>&lt;element&gt; retEnvEvento &lt;type&gt; DT_NFeRecepcaoEvento_Response https://4tax.seidorbrasil.com.br/NFeRecepcaoEvento https://4tax.seidorbrasil.com.br/NFeRecepcaoEvento</ID>
+     <IFR_TYPE>element</IFR_TYPE>
+     <IFR_NAME>retEnvEvento</IFR_NAME>
+     <IFR_LANGU>EN</IFR_LANGU>
+     <IFR_TAGTYP>E</IFR_TAGTYP>
+     <IFR_MINOCC>1</IFR_MINOCC>
+     <IFR_MAXOCC>1</IFR_MAXOCC>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>FIEL</R3_TYPE>
+     <R3_NAME>RET_ENV_EVENTO</R3_NAME>
+     <R3_SEQNUM>000001</R3_SEQNUM>
+    </item>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>/S4TAX/DT_NFE_RECEPCAO_EVENTO1</OBJ_NAME>
+     <OBJECT1>TABL</OBJECT1>
+     <OBJ_NAME1>/S4TAX/DT_NFE_RECEPCAO_EVENTO1</OBJ_NAME1>
+     <OBJECT2>TABL</OBJECT2>
+     <OBJ_NAME2>/S4TAX/DT_NFE_RECEPCAO_EVENTO1</OBJ_NAME2>
+     <ID>&lt;type&gt; DT_NFeRecepcaoEvento_Response https://4tax.seidorbrasil.com.br/NFeRecepcaoEvento https://4tax.seidorbrasil.com.br/NFeRecepcaoEvento</ID>
+     <IFR_TYPE>type</IFR_TYPE>
+     <IFR_NAME>DT_NFeRecepcaoEvento_Response</IFR_NAME>
+     <IFR_LANGU>EN</IFR_LANGU>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>TABL</R3_TYPE>
+     <R3_NAME>/S4TAX/DT_NFE_RECEPCAO_EVENTO1</R3_NAME>
+     <R3_TEXT>Proxy Structure (generated)</R3_TEXT>
+     <CATEGORY>ifmtypedef</CATEGORY>
+    </item>
+   </PROXY_DATA>
+  </asx:values>
+ </asx:abap>
+</abapGit>

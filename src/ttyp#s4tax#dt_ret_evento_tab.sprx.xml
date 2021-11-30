@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SPRX" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PROXY_HEADER>
+    <item>
+     <OBJECT>TTYP</OBJECT>
+     <OBJ_NAME>/S4TAX/DT_RET_EVENTO_TAB</OBJ_NAME>
+     <OBJECT_M>TTYP</OBJECT_M>
+     <OBJ_NAME_M>/S4TAX/DT_RET_EVENTO_TAB</OBJ_NAME_M>
+     <HASH_ID>E82E97901C230711BC8EC37B59BD9606C6596037</HASH_ID>
+     <ID>TableOf&lt;type&gt; DT_retEvento https://4tax.seidorbrasil.com.br/NFeRecepcaoEvento https://4tax.seidorbrasil.com.br/NFeRecepcaoEvento</ID>
+     <IFR_GLOBAL>X</IFR_GLOBAL>
+     <IFR_TYPE>TableOftype</IFR_TYPE>
+     <IFR_NAME>DT_retEvento</IFR_NAME>
+     <IFR_NSPCE>https://4tax.seidorbrasil.com.br/NFeRecepcaoEvento</IFR_NSPCE>
+     <IFR_GNSPCE>https://4tax.seidorbrasil.com.br/NFeRecepcaoEvento</IFR_GNSPCE>
+     <GEN_VERS>0005</GEN_VERS>
+     <PREFIX>/S4TAX/</PREFIX>
+     <CATEGORY>ifmtypedef</CATEGORY>
+    </item>
+   </PROXY_HEADER>
+   <PROXY_DATA>
+    <item>
+     <OBJECT>TTYP</OBJECT>
+     <OBJ_NAME>/S4TAX/DT_RET_EVENTO_TAB</OBJ_NAME>
+     <OBJECT1>TTYP</OBJECT1>
+     <OBJ_NAME1>/S4TAX/DT_RET_EVENTO_TAB</OBJ_NAME1>
+     <OBJECT2>TTYP</OBJECT2>
+     <OBJ_NAME2>/S4TAX/DT_RET_EVENTO_TAB</OBJ_NAME2>
+     <OBJECT_R>TABL</OBJECT_R>
+     <OBJ_NAME_R>/S4TAX/DT_RET_EVENTO</OBJ_NAME_R>
+     <ID>TableOf&lt;type&gt; DT_retEvento https://4tax.seidorbrasil.com.br/NFeRecepcaoEvento https://4tax.seidorbrasil.com.br/NFeRecepcaoEvento</ID>
+     <IFR_TYPE>TableOftype</IFR_TYPE>
+     <IFR_NAME>DT_retEvento</IFR_NAME>
+     <IFR_LANGU>EN</IFR_LANGU>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>TTYP</R3_TYPE>
+     <R3_NAME>/S4TAX/DT_RET_EVENTO_TAB</R3_NAME>
+     <R3_TEXT>Proxy Table Type (generated)</R3_TEXT>
+     <CATEGORY>ifmtypedef</CATEGORY>
+    </item>
+   </PROXY_DATA>
+  </asx:values>
+ </asx:abap>
+</abapGit>

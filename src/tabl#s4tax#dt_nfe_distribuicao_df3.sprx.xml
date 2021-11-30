@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SPRX" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PROXY_HEADER>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>/S4TAX/DT_NFE_DISTRIBUICAO_DF3</OBJ_NAME>
+     <OBJECT_M>TABL</OBJECT_M>
+     <OBJ_NAME_M>/S4TAX/DT_NFE_DISTRIBUICAO_DF3</OBJ_NAME_M>
+     <HASH_ID>433C1EABBD543F304771B7209D66FF88CA149F1D</HASH_ID>
+     <ID>&lt;type&gt; DT_NFeDistribuicaoDFe_Response https://4tax.seidorbrasil.com.br/dfe/NFeDistribuicaoDFe https://4tax.seidorbrasil.com.br/dfe/NFeDistribuicaoDFe</ID>
+     <IFR_GLOBAL>X</IFR_GLOBAL>
+     <IFR_TYPE>type</IFR_TYPE>
+     <IFR_NAME>DT_NFeDistribuicaoDFe_Response</IFR_NAME>
+     <IFR_NSPCE>https://4tax.seidorbrasil.com.br/dfe/NFeDistribuicaoDFe</IFR_NSPCE>
+     <IFR_GNSPCE>https://4tax.seidorbrasil.com.br/dfe/NFeDistribuicaoDFe</IFR_GNSPCE>
+     <GEN_VERS>0005</GEN_VERS>
+     <PREFIX>/S4TAX/</PREFIX>
+     <CATEGORY>ifmtypedef</CATEGORY>
+     <X-ML_NSPCE>https://4tax.seidorbrasil.com.br/dfe/NFeDistribuicaoDFe</X-ML_NSPCE>
+     <X-ML_NAME>DT_NFeDistribuicaoDFe_Response</X-ML_NAME>
+     <VERSION_ID>6b146ca442fd11ec83660000003a94ae</VERSION_ID>
+    </item>
+   </PROXY_HEADER>
+   <PROXY_DATA>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>/S4TAX/DT_NFE_DISTRIBUICAO_DF3</OBJ_NAME>
+     <OBJECT1>FIEL</OBJECT1>
+     <OBJ_NAME1>NFE_DIST_DFE_INTERESSE_RESULT</OBJ_NAME1>
+     <OBJECT2>FIEL</OBJECT2>
+     <OBJ_NAME2>NFE_DIST_DFE_INTERESSE_RESULT</OBJ_NAME2>
+     <OBJECT_R>TABL</OBJECT_R>
+     <OBJ_NAME_R>/S4TAX/DT_NFE_DISTRIBUICAO_DF1</OBJ_NAME_R>
+     <ID>&lt;element&gt; nfeDistDFeInteresseResult &lt;type&gt; DT_NFeDistribuicaoDFe_Response https://4tax.seidorbrasil.com.br/dfe/NFeDistribuicaoDFe https://4tax.seidorbrasil.com.br/dfe/NFeDistribuicaoDFe</ID>
+     <IFR_TYPE>element</IFR_TYPE>
+     <IFR_NAME>nfeDistDFeInteresseResult</IFR_NAME>
+     <IFR_LANGU>EN</IFR_LANGU>
+     <IFR_TAGTYP>E</IFR_TAGTYP>
+     <IFR_MINOCC>1</IFR_MINOCC>
+     <IFR_MAXOCC>1</IFR_MAXOCC>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>FIEL</R3_TYPE>
+     <R3_NAME>NFE_DIST_DFE_INTERESSE_RESULT</R3_NAME>
+     <R3_SEQNUM>000001</R3_SEQNUM>
+    </item>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>/S4TAX/DT_NFE_DISTRIBUICAO_DF3</OBJ_NAME>
+     <OBJECT1>TABL</OBJECT1>
+     <OBJ_NAME1>/S4TAX/DT_NFE_DISTRIBUICAO_DF3</OBJ_NAME1>
+     <OBJECT2>TABL</OBJECT2>
+     <OBJ_NAME2>/S4TAX/DT_NFE_DISTRIBUICAO_DF3</OBJ_NAME2>
+     <ID>&lt;type&gt; DT_NFeDistribuicaoDFe_Response https://4tax.seidorbrasil.com.br/dfe/NFeDistribuicaoDFe https://4tax.seidorbrasil.com.br/dfe/NFeDistribuicaoDFe</ID>
+     <IFR_TYPE>type</IFR_TYPE>
+     <IFR_NAME>DT_NFeDistribuicaoDFe_Response</IFR_NAME>
+     <IFR_LANGU>EN</IFR_LANGU>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>TABL</R3_TYPE>
+     <R3_NAME>/S4TAX/DT_NFE_DISTRIBUICAO_DF3</R3_NAME>
+     <R3_TEXT>Proxy Structure (generated)</R3_TEXT>
+     <CATEGORY>ifmtypedef</CATEGORY>
+    </item>
+   </PROXY_DATA>
+  </asx:values>
+ </asx:abap>
+</abapGit>

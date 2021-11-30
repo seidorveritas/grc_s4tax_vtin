@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SPRX" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PROXY_HEADER>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>/S4TAX/DT_EVENTOS1</OBJ_NAME>
+     <OBJECT_M>TABL</OBJECT_M>
+     <OBJ_NAME_M>/S4TAX/DT_EVENTOS1</OBJ_NAME_M>
+     <HASH_ID>1C1AF0796CDB7003953C101C3836C61543EAF99F</HASH_ID>
+     <ID>&lt;type&gt; DT_Eventos https://4tax.seidorbrasil.com.br/dfe/CTeRecepcaoEvento https://4tax.seidorbrasil.com.br/dfe/CTeRecepcaoEvento</ID>
+     <IFR_GLOBAL>X</IFR_GLOBAL>
+     <IFR_TYPE>type</IFR_TYPE>
+     <IFR_NAME>DT_Eventos</IFR_NAME>
+     <IFR_NSPCE>https://4tax.seidorbrasil.com.br/dfe/CTeRecepcaoEvento</IFR_NSPCE>
+     <IFR_GNSPCE>https://4tax.seidorbrasil.com.br/dfe/CTeRecepcaoEvento</IFR_GNSPCE>
+     <GEN_VERS>0005</GEN_VERS>
+     <PREFIX>/S4TAX/</PREFIX>
+     <CATEGORY>ifmtypedef</CATEGORY>
+     <X-ML_NSPCE>https://4tax.seidorbrasil.com.br/dfe/CTeRecepcaoEvento</X-ML_NSPCE>
+     <X-ML_NAME>DT_Eventos</X-ML_NAME>
+     <VERSION_ID>01dc57cf38b611eca09b0000003a94ae</VERSION_ID>
+    </item>
+   </PROXY_HEADER>
+   <PROXY_DATA>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>/S4TAX/DT_EVENTOS1</OBJ_NAME>
+     <OBJECT1>FIEL</OBJECT1>
+     <OBJ_NAME1>IND_DESACORDO_OPER</OBJ_NAME1>
+     <OBJECT2>FIEL</OBJECT2>
+     <OBJ_NAME2>IND_DESACORDO_OPER</OBJ_NAME2>
+     <ID>&lt;element&gt; indDesacordoOper &lt;type&gt; DT_Eventos https://4tax.seidorbrasil.com.br/dfe/CTeRecepcaoEvento https://4tax.seidorbrasil.com.br/dfe/CTeRecepcaoEvento</ID>
+     <IFR_TYPE>element</IFR_TYPE>
+     <IFR_NAME>indDesacordoOper</IFR_NAME>
+     <IFR_LANGU>EN</IFR_LANGU>
+     <IFR_TAGTYP>E</IFR_TAGTYP>
+     <IFR_MINOCC>1</IFR_MINOCC>
+     <IFR_MAXOCC>1</IFR_MAXOCC>
+     <IFR_XSDTYP>string</IFR_XSDTYP>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>FIEL</R3_TYPE>
+     <R3_NAME>IND_DESACORDO_OPER</R3_NAME>
+     <R3_DATATYP>STRG</R3_DATATYP>
+     <R3_SEQNUM>000002</R3_SEQNUM>
+    </item>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>/S4TAX/DT_EVENTOS1</OBJ_NAME>
+     <OBJECT1>FIEL</OBJECT1>
+     <OBJ_NAME1>TP_EVENTO</OBJ_NAME1>
+     <OBJECT2>FIEL</OBJECT2>
+     <OBJ_NAME2>TP_EVENTO</OBJ_NAME2>
+     <ID>&lt;element&gt; tpEvento &lt;type&gt; DT_Eventos https://4tax.seidorbrasil.com.br/dfe/CTeRecepcaoEvento https://4tax.seidorbrasil.com.br/dfe/CTeRecepcaoEvento</ID>
+     <IFR_TYPE>element</IFR_TYPE>
+     <IFR_NAME>tpEvento</IFR_NAME>
+     <IFR_LANGU>EN</IFR_LANGU>
+     <IFR_TAGTYP>E</IFR_TAGTYP>
+     <IFR_MINOCC>1</IFR_MINOCC>
+     <IFR_MAXOCC>1</IFR_MAXOCC>
+     <IFR_XSDTYP>string</IFR_XSDTYP>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>FIEL</R3_TYPE>
+     <R3_NAME>TP_EVENTO</R3_NAME>
+     <R3_DATATYP>STRG</R3_DATATYP>
+     <R3_SEQNUM>000001</R3_SEQNUM>
+    </item>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>/S4TAX/DT_EVENTOS1</OBJ_NAME>
+     <OBJECT1>FIEL</OBJECT1>
+     <OBJ_NAME1>X_OBS</OBJ_NAME1>
+     <OBJECT2>FIEL</OBJECT2>
+     <OBJ_NAME2>X_OBS</OBJ_NAME2>
+     <ID>&lt;element&gt; xObs &lt;type&gt; DT_Eventos https://4tax.seidorbrasil.com.br/dfe/CTeRecepcaoEvento https://4tax.seidorbrasil.com.br/dfe/CTeRecepcaoEvento</ID>
+     <IFR_TYPE>element</IFR_TYPE>
+     <IFR_NAME>xObs</IFR_NAME>
+     <IFR_LANGU>EN</IFR_LANGU>
+     <IFR_TAGTYP>E</IFR_TAGTYP>
+     <IFR_MINOCC>1</IFR_MINOCC>
+     <IFR_MAXOCC>1</IFR_MAXOCC>
+     <IFR_XSDTYP>string</IFR_XSDTYP>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>FIEL</R3_TYPE>
+     <R3_NAME>X_OBS</R3_NAME>
+     <R3_DATATYP>STRG</R3_DATATYP>
+     <R3_SEQNUM>000003</R3_SEQNUM>
+    </item>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>/S4TAX/DT_EVENTOS1</OBJ_NAME>
+     <OBJECT1>TABL</OBJECT1>
+     <OBJ_NAME1>/S4TAX/DT_EVENTOS1</OBJ_NAME1>
+     <OBJECT2>TABL</OBJECT2>
+     <OBJ_NAME2>/S4TAX/DT_EVENTOS1</OBJ_NAME2>
+     <ID>&lt;type&gt; DT_Eventos https://4tax.seidorbrasil.com.br/dfe/CTeRecepcaoEvento https://4tax.seidorbrasil.com.br/dfe/CTeRecepcaoEvento</ID>
+     <IFR_TYPE>type</IFR_TYPE>
+     <IFR_NAME>DT_Eventos</IFR_NAME>
+     <IFR_LANGU>EN</IFR_LANGU>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>TABL</R3_TYPE>
+     <R3_NAME>/S4TAX/DT_EVENTOS1</R3_NAME>
+     <R3_TEXT>Proxy Structure (generated)</R3_TEXT>
+     <CATEGORY>ifmtypedef</CATEGORY>
+    </item>
+   </PROXY_DATA>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SPRX" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PROXY_HEADER>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>/S4TAX/DT_CONSULTA_PROTOCOLO_1</OBJ_NAME>
+     <OBJECT_M>TABL</OBJECT_M>
+     <OBJ_NAME_M>/S4TAX/DT_CONSULTA_PROTOCOLO_1</OBJ_NAME_M>
+     <HASH_ID>04E4BD5559E7F0E6AC9355A250FDBF1D35D509D7</HASH_ID>
+     <ID>&lt;type&gt; DT_ConsultaProtocolo_Response https://4tax.seidorbrasil.com.br/dfe/NFeConsultaProtocolo https://4tax.seidorbrasil.com.br/dfe/NFeConsultaProtocolo</ID>
+     <IFR_GLOBAL>X</IFR_GLOBAL>
+     <IFR_TYPE>type</IFR_TYPE>
+     <IFR_NAME>DT_ConsultaProtocolo_Response</IFR_NAME>
+     <IFR_NSPCE>https://4tax.seidorbrasil.com.br/dfe/NFeConsultaProtocolo</IFR_NSPCE>
+     <IFR_GNSPCE>https://4tax.seidorbrasil.com.br/dfe/NFeConsultaProtocolo</IFR_GNSPCE>
+     <GEN_VERS>0005</GEN_VERS>
+     <PREFIX>/S4TAX/</PREFIX>
+     <CATEGORY>ifmtypedef</CATEGORY>
+     <X-ML_NSPCE>https://4tax.seidorbrasil.com.br/dfe/NFeConsultaProtocolo</X-ML_NSPCE>
+     <X-ML_NAME>DT_ConsultaProtocolo_Response</X-ML_NAME>
+     <VERSION_ID>ecdecc5c0eed11ebb1950000003a94ae</VERSION_ID>
+    </item>
+   </PROXY_HEADER>
+   <PROXY_DATA>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>/S4TAX/DT_CONSULTA_PROTOCOLO_1</OBJ_NAME>
+     <OBJECT1>FIEL</OBJECT1>
+     <OBJ_NAME1>COMMUNICATION_IDS</OBJ_NAME1>
+     <OBJECT2>FIEL</OBJECT2>
+     <OBJ_NAME2>COMMUNICATION_IDS</OBJ_NAME2>
+     <ID>&lt;element&gt; communicationIds &lt;type&gt; DT_ConsultaProtocolo_Response https://4tax.seidorbrasil.com.br/dfe/NFeConsultaProtocolo https://4tax.seidorbrasil.com.br/dfe/NFeConsultaProtocolo</ID>
+     <IFR_TYPE>element</IFR_TYPE>
+     <IFR_NAME>communicationIds</IFR_NAME>
+     <IFR_LANGU>EN</IFR_LANGU>
+     <IFR_TAGTYP>E</IFR_TAGTYP>
+     <IFR_MINOCC>1</IFR_MINOCC>
+     <IFR_MAXOCC>1</IFR_MAXOCC>
+     <IFR_XSDTYP>string</IFR_XSDTYP>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>FIEL</R3_TYPE>
+     <R3_NAME>COMMUNICATION_IDS</R3_NAME>
+     <R3_DATATYP>STRG</R3_DATATYP>
+     <R3_SEQNUM>000002</R3_SEQNUM>
+    </item>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>/S4TAX/DT_CONSULTA_PROTOCOLO_1</OBJ_NAME>
+     <OBJECT1>FIEL</OBJECT1>
+     <OBJ_NAME1>RET_CONS_SIT_NFE</OBJ_NAME1>
+     <OBJECT2>FIEL</OBJECT2>
+     <OBJ_NAME2>RET_CONS_SIT_NFE</OBJ_NAME2>
+     <OBJECT_R>TABL</OBJECT_R>
+     <OBJ_NAME_R>/S4TAX/DT_CONSULTA_PROTOCOLO_R</OBJ_NAME_R>
+     <ID>&lt;element&gt; retConsSitNFe &lt;type&gt; DT_ConsultaProtocolo_Response https://4tax.seidorbrasil.com.br/dfe/NFeConsultaProtocolo https://4tax.seidorbrasil.com.br/dfe/NFeConsultaProtocolo</ID>
+     <IFR_TYPE>element</IFR_TYPE>
+     <IFR_NAME>retConsSitNFe</IFR_NAME>
+     <IFR_LANGU>EN</IFR_LANGU>
+     <IFR_TAGTYP>E</IFR_TAGTYP>
+     <IFR_MINOCC>1</IFR_MINOCC>
+     <IFR_MAXOCC>1</IFR_MAXOCC>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>FIEL</R3_TYPE>
+     <R3_NAME>RET_CONS_SIT_NFE</R3_NAME>
+     <R3_SEQNUM>000001</R3_SEQNUM>
+    </item>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>/S4TAX/DT_CONSULTA_PROTOCOLO_1</OBJ_NAME>
+     <OBJECT1>TABL</OBJECT1>
+     <OBJ_NAME1>/S4TAX/DT_CONSULTA_PROTOCOLO_1</OBJ_NAME1>
+     <OBJECT2>TABL</OBJECT2>
+     <OBJ_NAME2>/S4TAX/DT_CONSULTA_PROTOCOLO_1</OBJ_NAME2>
+     <ID>&lt;type&gt; DT_ConsultaProtocolo_Response https://4tax.seidorbrasil.com.br/dfe/NFeConsultaProtocolo https://4tax.seidorbrasil.com.br/dfe/NFeConsultaProtocolo</ID>
+     <IFR_TYPE>type</IFR_TYPE>
+     <IFR_NAME>DT_ConsultaProtocolo_Response</IFR_NAME>
+     <IFR_LANGU>EN</IFR_LANGU>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>TABL</R3_TYPE>
+     <R3_NAME>/S4TAX/DT_CONSULTA_PROTOCOLO_1</R3_NAME>
+     <R3_TEXT>Proxy Structure (generated)</R3_TEXT>
+     <CATEGORY>ifmtypedef</CATEGORY>
+    </item>
+   </PROXY_DATA>
+  </asx:values>
+ </asx:abap>
+</abapGit>
